@@ -71,3 +71,13 @@ To run the program, use the following command and open the provided URL:
 ```shell
 streamlit run streamlit_app_new_experiment1.py
 ```
+
+## Troubleshooting guide:
+
+### If app doenst work?
+
+Check the steps bellow:
+
+- Check your env variables
+- Check the api version for deprication
+- Test the model through a new cell in jupyterlab
